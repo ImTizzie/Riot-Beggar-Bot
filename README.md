@@ -14,7 +14,7 @@ A simple and straight-forward Python script that autoruns every 24 hours to send
 
 > The collection is inspired by the Mexican holiday "Día de los Muertos" (Day of the Dead) and its name translates to "Never Forgotten" from Mexican-Spanish.
 
-For patch 3.08, the [***Nunca Olvidados***](https://playvalorant.com/en-us/news/game-updates/the-origins-of-valorant-s-nunca-olvidados/) skin bundle was released for five weapons: the Vandal, Ares, Frenzy, Bulldog, and Knife. Given that there's eighteen weapons and only five of those weapons actually have the ***best skin in the game***, it's only morally and ethically correct for them to release skins for the remaining eighteen weapons (especially for Viper mains who use the Phantom) (that's me).
+For patch 3.08, the [***Nunca Olvidados***](https://playvalorant.com/en-us/news/game-updates/the-origins-of-valorant-s-nunca-olvidados/) skin bundle was released for five weapons: the Vandal, Ares, Frenzy, Bulldog, and Knife. Given that there's eighteen weapons and only five of those weapons actually have the ***best skin in the game***, it's only morally and ethically correct for them to release skins for the remaining eighteen weapons (especially for Viper mains who use the Phantom) (_that's me_).
 
 After days of trying to figure out how to get in contact with a $21 Billion dollar company in order to communicate my absolute need for another _Nunca Olvidados_ bundle, I arrived at my final conclusion: It is most likely impossible to do so **legally**. Therefore, I opted to do the next best thing: repeatedly ~~harass~~ direct message the very ~~unfortunate~~ understanding Valorant Social Media managers/interns via Twitter.
 
