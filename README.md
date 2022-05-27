@@ -1,6 +1,6 @@
 # The Riot-Beggar-Bot
 
-A simple and straight-forward Python script that autoruns every 24 hours to send a direct message to the @PlayValorant account and annoy the ever-living shit out of their social media team (hopefully).
+A simple and straight-forward Python script that autoruns every 24 hours to send a direct message to the [@PlayValorant](https://twitter.com/PlayVALORANT?s=20&t=VSGxu2r_sdnxOfU-v3gxXw) account and annoy the **ever-living shit** out of their social media team (for a good cause).
 
 > valarante child game.... look to cartoon grapfix to make kid player happy like children show.. valarante cartoon world with rainbow unlike counter strike with dark corridorr and raelistic gun.. valarante like playhouse. valarant playor run from csgo fear of dark world and realism so need child game to relax
 
