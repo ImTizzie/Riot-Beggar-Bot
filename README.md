@@ -28,4 +28,4 @@ To get Riot to add more weapons with the _Nunca Olvidados_ theme or to get block
 
 ### Disclaimer
 
-I did not purely create this bot to annoy the Valorant Twitter account and get more _Nunca Olvidados_ weapons (although that was a large chunk of it), but I also wanted to create a tiny single-function bot in order to become more familiar with the Raspberry Pi and the Twitter API.
+_I did not purely create this bot to annoy the Valorant Twitter account and get more ***Nunca Olvidados*** weapons (although that was a large chunk of it), but I also wanted to create a tiny single-function bot in order to become more familiar with the Raspberry Pi and the Twitter API._
