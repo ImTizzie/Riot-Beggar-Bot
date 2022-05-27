@@ -6,7 +6,7 @@ A simple and straight-forward Python script that autoruns every 24 hours to send
 
 ## What and why the hell?
 
-Valorant is a popular 5v5 free-to-play first person shooter with a timed rotating shop that cycles through new bundles of skins for in-game weapons. For real-world money, users are able to purchase skins for their own weapons, either individually or in themed packs of five. However, there are a total of 18 weapons available, so users will typically have multiple themes and weapons that do not go together if they decide to purchase skins for each weapon in their library.
+[Valorant](https://playvalorant.com/en-us/) is a popular 5v5 free-to-play first person shooter with a timed rotating shop that cycles through new bundles of skins for in-game weapons. For real-world money, users are able to purchase skins for their own weapons, either individually or in themed packs of five. However, there are a total of 18 weapons available, so users will typically have multiple themes and weapons that do not go together if they decide to purchase skins for each weapon in their library.
 
 ![The most beautiful skin bundle](https://static.wikia.nocookie.net/valorant/images/f/fa/Bundle_Nunca_Olvidados.png/revision/latest/scale-to-width-down/1000?cb=20211019170213)
 
